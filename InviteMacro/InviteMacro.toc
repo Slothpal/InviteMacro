@@ -1,1 +1,5 @@
-
+## Interface: 90105
+## Title: InviteMacro
+## Author: Slothpal
+## Version: 1
+InviteMacro.lua
